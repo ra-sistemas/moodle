@@ -1,0 +1,3 @@
+[submodule "public/theme/real"]
+	path = public/theme/real
+	url = git@github.com:ra-sistemas/ralearning-moodle_theme_real.git
